@@ -1,1 +1,1 @@
-My first go module
+My first go module.
