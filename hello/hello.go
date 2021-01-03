@@ -13,5 +13,5 @@ func Proverb() string {
 }
 
 func Nothing() string {
-	return "Nothing"
+	return "Nothing!"
 }
